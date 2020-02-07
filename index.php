@@ -1,3 +1,3 @@
 <?php
-echo "Dab";
+echo "dab";
 ?>
